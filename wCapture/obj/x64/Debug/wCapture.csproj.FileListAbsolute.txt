@@ -1,0 +1,31 @@
+E:\wCapture\wCapture\bin\x64\Debug\wCapture.exe.config
+E:\wCapture\wCapture\bin\x64\Debug\wCapture.exe
+E:\wCapture\wCapture\bin\x64\Debug\wCapture.pdb
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.cap.resources
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.Properties.Resources.resources
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.GenerateResource.cache
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CoreCompileInputs.cache
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CopyComplete
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.exe
+E:\wCapture\wCapture\obj\x64\Debug\wCapture.pdb
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.exe.config
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.exe
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.pdb
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.cap.resources
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.Properties.Resources.resources
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.GenerateResource.cache
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CoreCompileInputs.cache
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CopyComplete
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.exe
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.pdb
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.exe.config
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.exe
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\bin\x64\Debug\wCapture.pdb
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.AssemblyReference.cache
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.cap.resources
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.Properties.Resources.resources
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.GenerateResource.cache
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CoreCompileInputs.cache
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.csproj.CopyComplete
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.exe
+C:\Users\kod\OneDrive - JAI A S\デスクトップ\GitHub\DualDisplay\wCapture\wCapture\obj\x64\Debug\wCapture.pdb

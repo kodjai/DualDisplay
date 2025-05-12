@@ -1,0 +1,58 @@
+E:\jai\develop\wCapture\wCapture\bin\Debug\wCapture.exe.config
+E:\jai\develop\wCapture\wCapture\bin\Debug\wCapture.exe
+E:\jai\develop\wCapture\wCapture\bin\Debug\wCapture.pdb
+E:\jai\develop\wCapture\wCapture\bin\Debug\PvDotNet.dll
+E:\jai\develop\wCapture\wCapture\bin\Debug\PvGUIDotNet.dll
+E:\jai\develop\wCapture\wCapture\bin\Debug\PvDotNet.xml
+E:\jai\develop\wCapture\wCapture\bin\Debug\PvGUIDotNet.xml
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.csprojAssemblyReference.cache
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.cap.resources
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.Properties.Resources.resources
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.csproj.GenerateResource.cache
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.csproj.CoreCompileInputs.cache
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.csproj.CopyComplete
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.exe
+E:\jai\develop\wCapture\wCapture\obj\Debug\wCapture.pdb
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\wCapture.exe.config
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\wCapture.exe
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\wCapture.pdb
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\PvDotNet.dll
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\PvGUIDotNet.dll
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\PvDotNet.xml
+C:\ADevelopSimple\wCapture\wCapture\bin\Debug\PvGUIDotNet.xml
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.csprojAssemblyReference.cache
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.cap.resources
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.Properties.Resources.resources
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.csproj.GenerateResource.cache
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.csproj.CoreCompileInputs.cache
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.csproj.CopyComplete
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.exe
+C:\ADevelopSimple\wCapture\wCapture\obj\Debug\wCapture.pdb
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\wCapture.exe.config
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\wCapture.exe
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\wCapture.pdb
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\PvDotNet.dll
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\PvGUIDotNet.dll
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\PvDotNet.xml
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\bin\Debug\PvGUIDotNet.xml
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.csproj.AssemblyReference.cache
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.cap.resources
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.Properties.Resources.resources
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.csproj.GenerateResource.cache
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.csproj.CoreCompileInputs.cache
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.csproj.CopyComplete
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.exe
+C:\worksource\1develop\Demo Souce\C#\多显示\双显示简版\wCapture\wCapture\obj\Debug\wCapture.pdb
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\Debug\wCapture.exe.config
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\Debug\wCapture.exe
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\Debug\wCapture.pdb
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\Debug\PvDotNet.dll
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\bin\Debug\PvGUIDotNet.dll
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.csprojAssemblyReference.cache
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.cap.resources
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.Properties.Resources.resources
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.csproj.GenerateResource.cache
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.csproj.CoreCompileInputs.cache
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.csproj.CopyComplete
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.exe
+C:\Users\kod\Desktop\DualDisplay\wCapture\wCapture\obj\Debug\wCapture.pdb
